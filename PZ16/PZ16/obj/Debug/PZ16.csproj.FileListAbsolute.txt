@@ -1,0 +1,10 @@
+D:\Навчання\KH32\ООП\PZ16\PZ16\bin\Debug\PZ16.exe.config
+D:\Навчання\KH32\ООП\PZ16\PZ16\bin\Debug\PZ16.exe
+D:\Навчання\KH32\ООП\PZ16\PZ16\bin\Debug\PZ16.pdb
+D:\Навчання\KH32\ООП\PZ16\PZ16\obj\Debug\PZ16.csproj.AssemblyReference.cache
+D:\Навчання\KH32\ООП\PZ16\PZ16\obj\Debug\PZ16.Form1.resources
+D:\Навчання\KH32\ООП\PZ16\PZ16\obj\Debug\PZ16.Properties.Resources.resources
+D:\Навчання\KH32\ООП\PZ16\PZ16\obj\Debug\PZ16.csproj.GenerateResource.cache
+D:\Навчання\KH32\ООП\PZ16\PZ16\obj\Debug\PZ16.csproj.CoreCompileInputs.cache
+D:\Навчання\KH32\ООП\PZ16\PZ16\obj\Debug\PZ16.exe
+D:\Навчання\KH32\ООП\PZ16\PZ16\obj\Debug\PZ16.pdb
